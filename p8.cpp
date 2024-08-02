@@ -70,3 +70,4 @@ int main()
 
     return 0;
 }
+double average = (double)(static_cast<double>(min_val) + static_cast<double>(max_val)) / 2.0;
